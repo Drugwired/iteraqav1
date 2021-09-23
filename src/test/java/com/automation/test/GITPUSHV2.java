@@ -8,7 +8,7 @@ import com.automation.pages.HomePage;
 import com.automation.utils.BaseTest;
 
 
-public class GITPUSH extends BaseTest {
+public class GITPUSHV2 extends BaseTest {
 	
 	protected HomePage hm = null;
 	
